@@ -1,6 +1,9 @@
 # flutter_historyofvietnam
 
-A new Flutter project.
+![bannervn](https://user-images.githubusercontent.com/71002261/127608971-98ec5ea9-2335-4e40-9a18-1de4392a2aad.png)
+
+
+Ứng dụng liệt kê cụ thể các thời kì của đất nước Việt Nam
 
 ## Getting Started
 
